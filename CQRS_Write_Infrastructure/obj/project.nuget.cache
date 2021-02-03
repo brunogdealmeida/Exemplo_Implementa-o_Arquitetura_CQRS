@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2c6pBg1uSlauVzv24meig7zsOCURemN5XONmRCeodLqc9NRR2ejNNQp/pARDv78Y63vebfue7KeOS82qLZMwqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\source\\repos\\CQRS_Exemplo\\CQRS_Write_Infrastructure\\CQRS_Write_Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Write_Application.deps.json
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Write_Application.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Write_Application.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\obj\Debug\netcoreapp3.1\CQRS_Write_Application.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\obj\Debug\netcoreapp3.1\CQRS_Write_Application.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\obj\Debug\netcoreapp3.1\CQRS_Write_Application.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\obj\Debug\netcoreapp3.1\CQRS_Write_Application.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\obj\Debug\netcoreapp3.1\CQRS_Write_Application.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\obj\Debug\netcoreapp3.1\CQRS_Write_Application.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Read_Application.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Write_Domain.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Write_Domain.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Read_Application.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Application\obj\Debug\netcoreapp3.1\CQRS_Write_Application.csproj.CopyComplete

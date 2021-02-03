@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\obj\Debug\netcoreapp3.1\CQRS_Write_Domain.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\obj\Debug\netcoreapp3.1\CQRS_Write_Domain.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\obj\Debug\netcoreapp3.1\CQRS_Write_Domain.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\obj\Debug\netcoreapp3.1\CQRS_Write_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\bin\Debug\netcoreapp3.1\CQRS_Write_Domain.deps.json
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\bin\Debug\netcoreapp3.1\CQRS_Write_Domain.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\bin\Debug\netcoreapp3.1\CQRS_Write_Domain.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\bin\Debug\netcoreapp3.1\CQRS_Read_Application.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\bin\Debug\netcoreapp3.1\CQRS_Read_Application.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\obj\Debug\netcoreapp3.1\CQRS_Write_Domain.csproj.CopyComplete
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\obj\Debug\netcoreapp3.1\CQRS_Write_Domain.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Domain\obj\Debug\netcoreapp3.1\CQRS_Write_Domain.pdb

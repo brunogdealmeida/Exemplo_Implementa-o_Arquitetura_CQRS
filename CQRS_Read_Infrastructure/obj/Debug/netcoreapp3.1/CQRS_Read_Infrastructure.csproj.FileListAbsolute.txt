@@ -1,0 +1,9 @@
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.deps.json
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Read_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.pdb

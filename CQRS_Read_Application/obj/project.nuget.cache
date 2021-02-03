@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsQaa9GDFuU/BIdNrTMDgkFGeVmFQbaF90VlMWEzNDkKg3178sTyk0MTAKGlD0C7lMU1dSLyrWEV9Xu15abxUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\source\\repos\\CQRS_Exemplo\\CQRS_Read_Application\\CQRS_Read_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

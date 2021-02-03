@@ -1,0 +1,16 @@
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.deps.json
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Read_Application.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Write_Domain.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Write_Domain.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Read_Application.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\bin\Debug\netcoreapp3.1\CQRS_Read_Infrastructure.pdb
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.csproj.CopyComplete
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.dll
+C:\Users\Bruno\source\repos\CQRS_Exemplo\CQRS_Write_Infrastructure\obj\Debug\netcoreapp3.1\CQRS_Write_Infrastructure.pdb
